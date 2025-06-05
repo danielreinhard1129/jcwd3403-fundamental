@@ -85,7 +85,7 @@ function greeting2(name: string) {
   return hello + name;
 }
 
-// argument 👇
+//             argument 👇
 console.log(greeting2("Budi"));
 console.log(greeting2("Siti"));
 
